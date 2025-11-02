@@ -1,5 +1,5 @@
 def maven() {
 
-sh "mvn package"
+echo "hello babai"
   
 }
