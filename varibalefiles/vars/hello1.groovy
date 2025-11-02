@@ -1,5 +1,3 @@
-def maven() {
-
-echo "hello babai"
-  
+def call() {
+    echo "hello babai"
 }
